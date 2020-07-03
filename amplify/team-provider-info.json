@@ -1,0 +1,15 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ericbachreadme-prod-142934-authRole",
+            "UnauthRoleArn": "arn:aws:iam::115499684434:role/amplify-ericbachreadme-prod-142934-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::115499684434:role/amplify-ericbachreadme-prod-142934-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-ericbachreadme-prod-142934-deployment",
+            "UnauthRoleName": "amplify-ericbachreadme-prod-142934-unauthRole",
+            "StackName": "amplify-ericbachreadme-prod-142934",
+            "StackId": "arn:aws:cloudformation:us-east-1:115499684434:stack/amplify-ericbachreadme-prod-142934/eaa825a0-bd6b-11ea-8b2e-0abf94ca9997",
+            "AmplifyAppId": "dtbag2vudtllv"
+        }
+    }
+}
