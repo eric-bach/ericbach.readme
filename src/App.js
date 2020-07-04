@@ -69,24 +69,24 @@ function App() {
         >
           <div className='content'>
             <h2>My Role</h2>
-            <p>My job as a team lead is to build a fun and high-performing team</p>
+            <p>My job as a team lead is to build a fun and high-performing team:</p>
             <ul>
               <li>
-                <b>I enable teams</b> to be innovative and successful, leading to high quality software products
+                <b>I enable teams</b> to be innovative and successful, leading to high quality software products.
               </li>
               <li>
-                <b>I provide context</b> from across the association to help you understand your priority and focus
+                <b>I provide context</b> from across the association to help you understand your priority and focus.
               </li>
               <li>
-                <b>I attract, retain, and grow</b> high performing individuals
+                <b>I attract, retain, and grow</b> high performing individuals.
               </li>
               <li>
-                <b>I can take off</b> for at least 4 weeks and it won’t make a difference
+                <b>I can take off</b> for at least 4 weeks and it won’t make a difference.
               </li>
             </ul>
             <p>
               If you feel I’m not meeting any of these responsibilities I appreciate if you do me a huge favour by
-              letting me know as soon as possible
+              letting me know as soon as possible.
             </p>
           </div>
           <div className='image'>
@@ -99,14 +99,14 @@ function App() {
           <div className='content'>
             <h2>Availability</h2>
             <ul>
-              <li>I keep my calendar up to date</li>
+              <li>I keep my calendar up to date.</li>
               <li>
                 You are welcome and encouraged to book time with me if you want to discuss something or want my
-                undivided attention. The only thing I ask is you include an agenda or some context whenever possible
+                undivided attention. The only thing I ask is you include an agenda or some context whenever possible.
               </li>
               <li>
                 If you want to or need to talk to me, and my schedule is not open, DM me on Slack/Teams and I’ll make
-                sure to get back to you once I’m available
+                sure to get back to you once I’m available.
               </li>
             </ul>
           </div>
@@ -121,22 +121,22 @@ function App() {
             <h2>Comms</h2>
             <ul>
               <li>
-                <b>Open communication</b> and trust-based relationships is important to me
+                <b>Open communication</b> and trust-based relationships is important to me.
               </li>
               <li>
                 <b>You can talk to me</b> about anything. If I don’t have an answer or can’t share it with you at the
-                moment, I’ll be honest about it
+                moment, I’ll be honest about it.
               </li>
               <li>
                 <b>My priority is to help you</b> succeed so I encourage you to reach out to me when you have a question
-                or just want to talk even if it’s just to vent
+                or just want to talk even if it’s just to vent.
               </li>
               <li>
-                <b>Nothing beats face-to-face</b> in-person communication. Our next best option is face-to-face video{' '}
+                <b>Nothing beats face-to-face</b> in-person communication. Our next best option is face-to-face video.
               </li>
               <li>
                 <b>My preferred communication</b> channels (in order of fastest to slowest response): In-person, DM on
-                Slack/Teams, phone, text message, ......, email
+                Slack/Teams, phone, text message, ......, email.
               </li>
             </ul>
           </div>
@@ -152,19 +152,20 @@ function App() {
             <ul>
               <li>
                 <b>Be available</b> during our core hours from 9 am to 3 pm. I expect you to find a start and end time
-                that works for you to meet the core hours and a 7.5 hour working day
+                that works for you to meet the core hours and a 7.5 hour working day.
               </li>
               <li>
                 <b>You let me know if you can’t do your job</b>. If you feel you are running into a potential issue or
-                roadblock, I prefer to hear about it sooner
+                roadblock, I prefer to hear about it sooner.
               </li>
               <li>
                 <b>Our job is to solve problems, not write code</b>. I encourage you to think creatively for the best
-                solution to the problem at hand. Come up with a solid design before you start to write any sizeable code
+                solution to the problem at hand. Come up with a solid design before you start to write any sizeable
+                code.
               </li>
               <li>
                 <b>You bring well thought-out problems and good decisions</b> to conversations. I believe in the
-                equality in distribution of conversational turn-taking
+                equality in distribution of conversational turn-taking.
               </li>
               <li>
                 <b>You live by the boy scout principles</b> of continually improving the small things. As it relates to
@@ -218,12 +219,12 @@ function App() {
             <ul>
               <li>
                 There may be occasions where I require some time to gather my thoughts. While this may be perceived as
-                I’m not engaged I’m actually quite open once I have the space
+                I’m not engaged I’m actually quite open once I have the space.
               </li>
-              <li>I prefer to multi-task it but it doesn’t mean I’m not paying attention to you</li>
+              <li>I prefer to multi-task it but it doesn’t mean I’m not paying attention to you.</li>
               <li>
                 I am awful at responding to emails so if you feel your email has gone into the Outlook void, please give
-                me a gentle reminder
+                me a gentle reminder.
               </li>
               <li>
                 Provide me enough context when you ask me to do something. But don't push me to commit immediately. I
