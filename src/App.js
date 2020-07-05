@@ -1,4 +1,5 @@
 import React from 'react';
+import { Icon } from 'semantic-ui-react';
 
 function App() {
   return (
@@ -33,14 +34,12 @@ function App() {
               </section>
               <section>
                 <h3>Foodie</h3>
-                <br />
               </section>
               <section>
                 <h3>Runner</h3>
               </section>
               <section>
                 <h3>Photographer</h3>
-                <br />
               </section>
               <section>
                 <h3>Wanderlust</h3>
@@ -50,7 +49,6 @@ function App() {
               </section>
               <section>
                 <h3>DIYer</h3>
-                <br />
               </section>
               <section>
                 <h3>Golfer</h3>
@@ -241,21 +239,19 @@ function App() {
         <footer className='wrapper style1 align-center'>
           <div className='inner social-link-group'>
             <ul className='icons'>
-              <a href='https://ericbach.dev'>
-                <i className='github icon large grey' />
-              </a>
-              <a href='https://github.com/eric-bach'>
-                <i className='github icon large grey' />
-              </a>
-              <a href='https://linkedin/in/ebach'>
-                <i className='linkedin icon large grey' />
-              </a>
-              <a href='https://medium.com/@bacheric'>
-                <i className='medium m icon large grey' />
-              </a>
+              <li>
+                <a href='https://github.com/eric-bach' className='icon brands style2 fa-github'>
+                  <span className='label'>GitHub</span>
+                </a>
+              </li>
+              <li>
+                <a href='https://linkedin/in/ebach' className='icon brands style2 fa-linkedin-in'>
+                  <span className='label'>LinkedIn</span>
+                </a>
+              </li>
             </ul>
             <p>
-              &copy; Eric Bach. Design: <a href='https://html5up.net'>HTML5 UP</a>.
+              &copy; <a href='https://ericbach.dev'>Eric Bach</a>. Design by: <a href='https://html5up.net'>HTML5 UP</a>
             </p>
           </div>
         </footer>
