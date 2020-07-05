@@ -1,3 +1,3 @@
-This is my manager readme
+This is my manager readme. It is meant as a living document on "how I work".
 
-Open [https://iam.ericbach.dev](https://iam.ericbach.dev) to view my readme
+Please [https://iam.ericbach.dev](https://iam.ericbach.dev) to view my readme.
