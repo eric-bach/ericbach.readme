@@ -133,8 +133,8 @@ function App() {
                 <b>Nothing beats face-to-face</b> in-person communication. Our next best option is face-to-face video.
               </li>
               <li>
-                <b>My preferred communication</b> channels (in order of fastest to slowest response): In-person, DM on
-                Slack/Teams, phone, text message, ......, email.
+                <b>My preferred communication</b> channels (in order of fastest to slowest response): in-person, DM on
+                Slack/Teams, phone, text message, ......, and lastly if really necessary, email.
               </li>
             </ul>
           </div>
@@ -162,8 +162,8 @@ function App() {
                 code.
               </li>
               <li>
-                <b>You bring well thought-out problems and good decisions</b> to conversations. I believe in the
-                equality in distribution of conversational turn-taking.
+                <b>You bring well thought-out problems and good decisions</b> to conversations. I believe the equality
+                in distribution of conversational turn-taking is foundation to supporting a high-performing team.
               </li>
               <li>
                 <b>You live by the boy scout principles</b> of continually improving the small things. As it relates to
@@ -194,15 +194,12 @@ function App() {
               <li>or even talking about your outside interests</li>
             </ul>
             <p>
-              Let's not turn this time into a status update meeting unless you have a pressing need to update status.
-            </p>
-            <p>
               I do everything I can not to cancel a one-on-one with you, but I will have to reschedule from time to
-              time.
+              time. Unless you have a pressing need to update status, let's not use this time for a status update.
             </p>
             <p>
               If you have something urgent to discuss with me, don't wait for our one-on-one to happen, feel free to
-              book a meeting earlier.
+              reach out to me earlier.
             </p>
           </div>
           <div className='image'>
@@ -217,16 +214,20 @@ function App() {
             <ul>
               <li>
                 There may be occasions where I require some time to gather my thoughts. While this may be perceived as
-                I’m not engaged I’m actually quite open once I have the space.
+                I’m not engaged I’m actually quite open once I have the space. I will provide you my opinion once I'm
+                ready.
               </li>
-              <li>I prefer to multi-task it but it doesn’t mean I’m not paying attention to you.</li>
+              <li>
+                I will often multi-task so you may see me typing away, but it doesn’t mean I’m not paying attention to
+                you. The only exception is one-on-ones where you will always have my undivided attention.
+              </li>
               <li>
                 I am awful at responding to emails so if you feel your email has gone into the Outlook void, please give
                 me a gentle reminder.
               </li>
               <li>
-                Provide me enough context when you ask me to do something. But don't push me to commit immediately. I
-                need the time to process new information. I commit deliberately.
+                Provide me enough context when you ask me to do something. Before I commit I need the time to process
+                new information. I commit deliberately.
               </li>
             </ul>
           </div>
