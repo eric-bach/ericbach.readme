@@ -1,9 +1,8 @@
 import React from 'react';
-import { Icon } from 'semantic-ui-react';
 
 function App() {
   return (
-    <body className='is-preload'>
+    <>
       <div id='wrapper' className='divided'>
         {/* One */}
         <section className='banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right'>
@@ -143,6 +142,130 @@ function App() {
           </div>
         </section>
 
+        <section className='wrapper style1 align-center'>
+          <div className='inner'>
+            <h3>
+              “A mind that is stretched by a new experience can never go back to its old dimensions.” – Oliver Wendell
+              Holmes
+            </h3>
+          </div>
+
+          <div className='gallery lightbox onscroll-fade-in style1 medium'>
+            <article>
+              <a href='images/gallery/fulls/01.jpg' className='image'>
+                <img src='images/gallery/thumbs/01.jpg' alt='' />
+              </a>
+              <div className='caption'>
+                <h3>Australian Open</h3>
+                <p>Melbourne, Australia</p>
+                <ul className='actions fixed'>
+                  <li>
+                    <span className='button small'>Details</span>
+                  </li>
+                </ul>
+              </div>
+            </article>
+            <article>
+              <a href='images/gallery/fulls/02.jpg' className='image'>
+                <img src='images/gallery/thumbs/02.jpg' alt='' />
+              </a>
+              <div className='caption'>
+                <h3>Machu Picchu</h3>
+                <p>Cusco, Peru</p>
+                <ul className='actions fixed'>
+                  <li>
+                    <span className='button small'>Details</span>
+                  </li>
+                </ul>
+              </div>
+            </article>
+            <article>
+              <a href='images/gallery/fulls/03.jpg' className='image'>
+                <img src='images/gallery/thumbs/03.jpg' alt='' />
+              </a>
+              <div className='caption'>
+                <h3>Lotus of Siam</h3>
+                <p>Las Vegas, NV</p>
+                <ul className='actions fixed'>
+                  <li>
+                    <span className='button small'>Details</span>
+                  </li>
+                </ul>
+              </div>
+            </article>
+            <article>
+              <a href='images/gallery/fulls/04.jpg' className='image'>
+                <img src='images/gallery/thumbs/04.jpg' alt='' />
+              </a>
+              <div className='caption'>
+                <h3>Gyeongbokgung</h3>
+                <p>Seoul, South Korea</p>
+                <ul className='actions fixed'>
+                  <li>
+                    <span className='button small'>Details</span>
+                  </li>
+                </ul>
+              </div>
+            </article>
+            <article>
+              <a href='images/gallery/fulls/05.jpg' className='image'>
+                <img src='images/gallery/thumbs/05.jpg' alt='' />
+              </a>
+              <div className='caption'>
+                <h3>Chiang Kai-shek</h3>
+                <p>Taipei, Taiwan</p>
+                <ul className='actions fixed'>
+                  <li>
+                    <span className='button small'>Details</span>
+                  </li>
+                </ul>
+              </div>
+            </article>
+            <article>
+              <a href='images/gallery/fulls/06.jpg' className='image'>
+                <img src='images/gallery/thumbs/06.jpg' alt='' />
+              </a>
+              <div className='caption'>
+                <h3>Cradle Mountain</h3>
+                <p>Tasmania, Australia</p>
+                <ul className='actions fixed'>
+                  <li>
+                    <span className='button small'>Details</span>
+                  </li>
+                </ul>
+              </div>
+            </article>
+            <article>
+              <a href='images/gallery/fulls/07.jpg' className='image'>
+                <img src='images/gallery/thumbs/07.jpg' alt='' />
+              </a>
+              <div className='caption'>
+                <h3>Grand Lisboa</h3>
+                <p>Macau, China</p>
+                <ul className='actions fixed'>
+                  <li>
+                    <span className='button small'>Details</span>
+                  </li>
+                </ul>
+              </div>
+            </article>
+            <article>
+              <a href='images/gallery/fulls/08.jpg' className='image'>
+                <img src='images/gallery/thumbs/08.jpg' alt='' />
+              </a>
+              <div className='caption'>
+                <h3>Kinkaku-ji</h3>
+                <p>Kyoto, Japan</p>
+                <ul className='actions fixed'>
+                  <li>
+                    <span className='button small'>Details</span>
+                  </li>
+                </ul>
+              </div>
+            </article>
+          </div>
+        </section>
+
         {/* Expectations */}
         <section className='spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in'>
           <div className='content'>
@@ -266,7 +389,7 @@ function App() {
       <script src='js/breakpoints.min.js'></script>
       <script src='js/util.js'></script>
       <script src='js/main.js'></script>
-    </body>
+    </>
   );
 }
 
