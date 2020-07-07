@@ -10,13 +10,6 @@ function App() {
             <h1>Eric Bach</h1>
             <p>Senior Agile Team Lead</p>
             <h4>Alberta Motor Association</h4>
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
           </div>
           <div className="image">
             <img src="images/01.jpg" alt="" />
