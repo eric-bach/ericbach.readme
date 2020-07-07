@@ -21,7 +21,7 @@ function App() {
             <h2>About Me</h2>
             <h4>I'm always in search of the perfect bowl of ramen</h4>
             <h4>I often travel solo to places for weeks at a time</h4>
-            <h4>I enjoy capturing perfect moments with my camera</h4>
+            <h4>I capture the world through the lens of my camera</h4>
             <h4>I'm a strong runner that consistently finishes on the podium</h4>
             <h4>I like to think I'm a good golfer when you exclude my bad shots</h4>
             <h4>I'm often seen at the net blocking your volleyball spikes</h4>
@@ -46,8 +46,8 @@ function App() {
                 priority and focus.
               </li>
               <li>
-                <b>I balance</b> dynamic and challenging work with social team activities and
-                events.
+                <b>I support a engaging environment</b> centred around team building events,
+                volunteer events, and other social activities.
               </li>
               <li>
                 <b>I attract, retain, and grow</b> high performing individuals.
@@ -74,12 +74,12 @@ function App() {
               <li>
                 My office hours are generally from 7:30 - 4:30. If you need something from me
                 outside these hours, let me know ahead of time and I can usually accommodate unless
-                I have a prior commitment scheduled.
+                I have a prior commitment.
               </li>
               <li>
                 I keep my calendar up to date. You are welcome and encouraged to book time with me
                 if you want to discuss something or want my undivided attention. The only thing I
-                ask is you include an agenda or some context whenever possible.
+                ask is if you could include an agenda or some context whenever possible.
               </li>
               <li>
                 If you want to or need to talk to me, and my schedule is not open, DM me on
@@ -98,9 +98,6 @@ function App() {
             <h2>Comms</h2>
             <ul>
               <li>
-                <b>Open communication</b> and trust-based relationships is important to me.
-              </li>
-              <li>
                 <b>You can talk to me</b> about anything. If I don’t have an answer or can’t share
                 it with you at the moment, I’ll be honest about it.
               </li>
@@ -114,8 +111,8 @@ function App() {
               </li>
               <li>
                 <b>My preferred communication</b> channels (in order of fastest to slowest
-                response): in-person, DM on Slack/Teams, phone, text message, ......, and lastly if
-                really necessary, email.
+                response): in-person, DM on Slack/Teams, phone, text message, ......, and if really
+                necessary, email.
               </li>
             </ul>
           </div>
@@ -136,20 +133,21 @@ function App() {
               </li>
               <li>
                 <b>You let me know if you can’t do your job</b>. If you feel you're about to
-                encounter a potential issue or roadblock, I appreciate to hear about it rather than
-                to have to help resolve a major issue later on.
+                encounter a potential issue or roadblock, I appreciate to hear about it right away
+                as opposed to have to help you resolve a major issue down the road.
               </li>
               <li>
                 <b>Our job is to solve problems, not write code</b>. I encourage you to think
                 creatively for the best solution to the problem at hand. Come up with a solid design
-                before you start to write any sizeable code.
+                and seek frequent feedback on it before you start to write any sizeable code.
               </li>
               <li>
-                <b>You are engaged in team activities</b> like discussions, collaborative workshops,
-                and team building activities or social events.
+                <b>You embrace a collaborative team culture</b> where you are engaged in team
+                discussions, collaborative workshops, and even selecting our next team building
+                event.
               </li>
               <li>
-                <b>You live by the boy scout principles</b> of continually improving the small
+                <b>You live by the boy scout principle</b> of continually improving the small
                 things. As it relates to code, always leave code better than you found it.
               </li>
             </ul>
@@ -165,7 +163,7 @@ function App() {
             <h2>O3s</h2>
             <p>
               One-on-ones are your time to tell me what’s on your mind, whatever it is. I usually
-              send an email with a <b>“question of the week”</b> that will initiate the
+              send an email with a <b>“question of the bi-week”</b> that will initiate the
               conversation. I would prefer to keep status updates out of our conversation unless you
               have a pressing need for an update. I would strongly encourage you to bring items that
               you would like to discuss with me:
@@ -202,17 +200,18 @@ function App() {
                 will provide you my opinion once I'm ready.
               </li>
               <li>
-                I will often multi-task so you may see me typing away, but it doesn’t mean I’m not
-                paying attention to you. The only exception is one-on-ones where you will always
-                have my undivided attention.
+                My working style is to multi-task so you may see me typing away, but it doesn’t mean
+                I’m not paying attention to you. The only exception is one-on-ones where you will
+                always have my undivided attention.
               </li>
               <li>
                 I am awful at responding to emails so if you feel your email has gone into the
                 Outlook void, please give me a gentle reminder.
               </li>
               <li>
-                Provide me enough context when you ask me to do something. Before I commit I need
-                the time to process new information. I commit deliberately.
+                I have difficulty sharing my thoughts when I am not provided enough context. If you
+                need something from me, kindly provide me a rundown beginning before jumping into
+                the ask.
               </li>
             </ul>
           </div>
