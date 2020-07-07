@@ -20,11 +20,11 @@ function App() {
           <div className="inner">
             <h2>About Me</h2>
             <h4>I'm always in search of the perfect bowl of ramen</h4>
-            <h4>I often travel solo to unique places for weeks at a time</h4>
+            <h4>I often travel solo to places for weeks at a time</h4>
             <h4>I enjoy capturing perfect moments with my camera</h4>
             <h4>I'm a strong runner that consistently finishes on the podium</h4>
             <h4>I like to think I'm a good golfer when you exclude my bad shots</h4>
-            <h4>I am often seen at the net blocking your volleyball spikes</h4>
+            <h4>I'm often seen at the net blocking your volleyball spikes</h4>
           </div>
         </section>
 
