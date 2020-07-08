@@ -42,15 +42,16 @@ function App() {
                 software products.
               </li>
               <li>
-                <b>I provide context</b> from across the association to help you understand your
-                priority and focus.
+                <b>I encourage teams to be creative</b> with team building events, volunteer events,
+                and other social activities.
               </li>
               <li>
-                <b>I support a engaging environment</b> centred around team building events,
-                volunteer events, and other social activities.
+                <b>I create a high-trust culture</b> that supports psychological safety where
+                diversity and inclusion is valued.
               </li>
               <li>
-                <b>I attract, retain, and grow</b> high performing individuals.
+                <b>I attract, retain, and grow</b> high performing individuals through timely
+                feedback and coaching.
               </li>
               <li>
                 <b>I can take off</b> for at least 4 weeks and it won’t make a difference.
@@ -72,9 +73,8 @@ function App() {
             <h2>Availability</h2>
             <ul>
               <li>
-                My office hours are generally from 7:30 - 4:30. If you need something from me
-                outside these hours, let me know ahead of time and I can usually accommodate unless
-                I have a prior commitment.
+                I generally prefer to start my day in the early morning but am available if you need
+                some help after my day ends, provided I do not have a prior commitment.
               </li>
               <li>
                 I keep my calendar up to date. You are welcome and encouraged to book time with me
@@ -84,6 +84,10 @@ function App() {
               <li>
                 If you want to or need to talk to me, and my schedule is not open, DM me on
                 Slack/Teams and I’ll make sure to get back to you once I’m available.
+              </li>
+              <li>
+                If you need to get a hold of me outside of working hours I appreciate if you can
+                give me a phone call as I don't always check my messages very frequently.
               </li>
             </ul>
           </div>
@@ -98,21 +102,22 @@ function App() {
             <h2>Comms</h2>
             <ul>
               <li>
-                <b>You can talk to me</b> about anything. If I don’t have an answer or can’t share
-                it with you at the moment, I’ll be honest about it.
+                <b>You can talk to me</b> about anything. I encourage you to reach out to me when
+                you have a question or just want to talk even if it’s just to vent. If I don’t have
+                an answer or can’t share it with you at the moment, I’ll be honest about it.
               </li>
               <li>
-                <b>My priority is to help you succeed</b> so I encourage you to reach out to me when
-                you have a question or just want to talk even if it’s just to vent.
+                <b>My priority is to help you succeed.</b> I encourage us to have regular
+                discussions about your goals in order for me to better help you with your career
+                progression.
               </li>
               <li>
-                <b>Nothing beats face-to-face</b> in-person communication. Our next best option is
-                face-to-face video.
+                <b>My goal is to provide you timely feedback</b> whether positive or constructive.
+                If you feel you aren't getting enough feedback please let me know.
               </li>
               <li>
                 <b>My preferred communication</b> channels (in order of fastest to slowest
-                response): in-person, DM on Slack/Teams, phone, text message, ......, and if really
-                necessary, email.
+                response): in-person, DM on Slack/Teams, phone, text message, email.
               </li>
             </ul>
           </div>
@@ -132,14 +137,14 @@ function App() {
                 break, coffee breaks, and a 7.5 hour working day.
               </li>
               <li>
-                <b>You let me know if you can’t do your job</b>. If you feel you're about to
-                encounter a potential issue or roadblock, I appreciate to hear about it right away
-                as opposed to have to help you resolve a major issue down the road.
+                <b>You let me know when you you need help</b>. Let me know if you're about to
+                encounter a challenge or roadblock so we can work together to remove them before
+                they become a major issue.
               </li>
               <li>
                 <b>Our job is to solve problems, not write code</b>. I encourage you to think
                 creatively for the best solution to the problem at hand. Come up with a solid design
-                and seek frequent feedback on it before you start to write any sizeable code.
+                and get feedback on it before you start to write any sizeable code.
               </li>
               <li>
                 <b>You embrace a collaborative team culture</b> where you are engaged in team
@@ -195,9 +200,10 @@ function App() {
             <h2>Imperfections</h2>
             <ul>
               <li>
-                There may be occasions where I require some time to gather my thoughts. While this
-                may be perceived as I’m not engaged I’m actually quite open once I have the space. I
-                will provide you my opinion once I'm ready.
+                There may be occasions where I require some time to gather my thoughts especially
+                when I am not provided enough context. While this may be perceived as I’m not
+                engaged I’m actually quite open once I have the information. I will provide you my
+                opinion once I'm ready.
               </li>
               <li>
                 My working style is to multi-task so you may see me typing away, but it doesn’t mean
@@ -205,13 +211,13 @@ function App() {
                 always have my undivided attention.
               </li>
               <li>
-                I am awful at responding to emails so if you feel your email has gone into the
-                Outlook void, please give me a gentle reminder.
+                I'm continually working on responding to emails in a timely manner. If you feel your
+                email has gone into the Outlook void, please give me a gentle reminder.
               </li>
               <li>
-                I have difficulty sharing my thoughts when I am not provided enough context. If you
-                need something from me, kindly provide me a rundown beginning before jumping into
-                the ask.
+                I am passionate about everything I do which can lead to being overly ambitious. If
+                you catch me suggesting too lofty of a goal, I appreciate if we can have a
+                discussion about it.
               </li>
             </ul>
           </div>
