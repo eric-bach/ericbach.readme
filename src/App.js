@@ -21,9 +21,9 @@ function App() {
             <h2>About Me</h2>
             <h4>I'm always in search of the perfect bowl of ramen</h4>
             <h4>I often travel solo to places for weeks at a time</h4>
-            <h4>I capture the world through the lens of my camera</h4>
-            <h4>I'm a strong runner that consistently finishes on the podium</h4>
-            <h4>I like to think I'm a good golfer when you exclude my bad shots</h4>
+            <h4>I see the world through the lens of my camera</h4>
+            <h4>I love running and consistently finish on the podium</h4>
+            <h4>I believe I'm a good golfer if you exclude my bad shots</h4>
             <h4>I spend a lot of time at the net blocking volleyball spikes</h4>
           </div>
         </section>
@@ -78,8 +78,8 @@ function App() {
               </li>
               <li>
                 I keep my calendar up to date. You are welcome and encouraged to book time with me
-                if you want to discuss something or want my undivided attention. Please include an
-                agenda or some context whenever possible.
+                if you want to discuss something. Please include an agenda or some context whenever
+                possible.
               </li>
               <li>
                 If you want to or need to talk to me, and my schedule is not open, DM me on
@@ -137,9 +137,9 @@ function App() {
                 break, coffee breaks, and a 7.5 hour working day.
               </li>
               <li>
-                <b>You let me know when you you need help</b>. Let me know if you're about to
-                encounter a challenge or roadblock so we can work together to remove them before
-                they become a major issue.
+                <b>You let me know when you you need help</b>. If you feel you're about to encounter
+                a challenge or roadblock let's work together to remove them before they become a
+                major issue.
               </li>
               <li>
                 <b>Our job is to solve problems, not write code</b>. I encourage you to think
@@ -205,10 +205,8 @@ function App() {
                 opinion once I'm ready.
               </li>
               <li>
-                I am passionate about everything I do so I never feel completely satisfied with my
-                work no matter how good others may perceive it to be. This is just part of my
-                perfectionist and ambitious nature while constantly striving for continuous
-                improvement.
+                I'm a perfectionist that is passionate about everything I do so I never feel
+                completely satisfied with my work no matter how good others may perceive it to be.
               </li>
               <li>
                 My working style is to multi-task so you may see me typing away, but it doesn’t mean
