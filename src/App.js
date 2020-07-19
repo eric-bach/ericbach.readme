@@ -206,7 +206,7 @@ function App() {
               </li>
               <li>
                 I'm a perfectionist that is passionate about everything I do so I never feel
-                completely satisfied with my work no matter how good others may perceive it to be.
+                completely satisfied with my work. I am constantly and continuously improving.
               </li>
               <li>
                 My working style is to multi-task so you may see me typing away, but it doesn’t mean
